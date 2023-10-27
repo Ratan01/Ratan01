@@ -35,6 +35,7 @@
 </div>
 <div align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ratan01&theme=codeSTACKr" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratan01&langs_count=8&theme=codeSTACKr" alt="Language stats.">
 </div>
 <div align="center">
   <a href="https://github.com/Ratan01">
@@ -45,7 +46,6 @@
   <a href="https://github.com/Ratan01">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ratan01&theme=codeSTACKr" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratan01&theme=codeSTACKr&utcOffset=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratan01&langs_count=8&theme=codeSTACKr" alt="Language stats.">
   </a>
 </div>
 <p align="center"> 
