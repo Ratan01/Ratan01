@@ -1,10 +1,10 @@
-![logo](https://github.com/Ratan01/Ratan01/blob/main/RATAN%20(1).gif)
-<h3 align="center">A passionate java developer from India</h3>
+![logo]([https://github.com/Ratan01/Ratan01/blob/main/Hello%20everyone.gif})
+<h3 align="center"></h3>
 
 <img align="center" alt="Coder GIF" height=500 width=5000 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 ## **About Me:**
 <p align="left">
-- Hi, I'm a Java developer with 2 years of experience in software development.
+- Hi, I'm a Java developer with 3 years of experience in software development.
 </p>
 <p align="left">
 - I have a strong passion for coding and a deep understanding of the Java programming language.
