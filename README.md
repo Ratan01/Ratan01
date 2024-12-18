@@ -1,7 +1,6 @@
 ![logo](https://github.com/Ratan01/Ratan01/blob/main/Hello%20everyone.gif)
 <h3 align="center"></h3>
 
-<img align="center" alt="Coder GIF" height=500 width=5000 src="" />
 
 ## **About Me:**
 <p align="left">
