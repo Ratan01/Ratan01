@@ -1,4 +1,4 @@
-![logo](https://github.com/Ratan01/Ratan01/blob/main/Hello%20everyone.gif)
+![logo](helloEveryone.gif)
 <h3 align="center"></h3>
 
 
