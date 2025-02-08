@@ -4,7 +4,7 @@
 
 ## **About Me:**
 <p align="left">
-- Hi, I am experienced Java Developer with expertise in designing, developing, and maintaining scalable web applications using Java, Spring Boot, Hibernate, JDBC, and SQL.
+-👋 Hi, I am experienced Java Developer with expertise in designing, developing, and maintaining scalable web applications using Java, Spring Boot, Hibernate, JDBC, and SQL.
 </p>
 <p align="left">
 - Proficient in building dynamic and responsive user interfaces with React.js, Angular, HTML, CSS, and JavaScript.
