@@ -4,19 +4,16 @@
 
 ## **About Me:**
 <p align="left">
-- Hi, I'm a Java developer with 3 years of experience in software development.
+- Hi, I am experienced Java Developer with expertise in designing, developing, and maintaining scalable web applications using Java, Spring Boot, Hibernate, JDBC, and SQL.
 </p>
 <p align="left">
-- I have a strong passion for coding and a deep understanding of the Java programming language.
+- Proficient in building dynamic and responsive user interfaces with React.js, Angular, HTML, CSS, and JavaScript.
 </p>
 <p align="left">
-- I'm well-versed in Java's core concepts, including object-oriented programming, multithreading, and data structures.
+- Strong understanding of RESTful APIs, Microservices architecture, and JWT authentication.
 </p>
 <p align="left">
-- I also have experience with Java frameworks like Spring and Hibernate, and I'm comfortable working with databases using JDBC.
-</p>
-<p align="left">
-- Additionally, I'm committed to writing maintainable and scalable software, adhering to best practices and design patterns.
+- Hands-on experience with Git for version control and collaboration. Passionate about writing clean, efficient, and maintainable code while ensuring high performance and security.
 </p>
 <p align="left">
 - Thank you for visiting my profile. I'm glad you're here!
