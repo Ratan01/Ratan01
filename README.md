@@ -58,11 +58,8 @@
 
 ## **My profile stats here:**
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ratan01&theme=darkhub" alt="ratan01" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ratan01&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <div align="center">
