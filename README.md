@@ -1,4 +1,4 @@
-![logo](helloEveryone.gif)
+<a><img align="centre" src="assets/helloEveryone.gif" alt="logo" width=100% height="300"/></a>
 <h3 align="center"></h3>
 
 
@@ -58,7 +58,12 @@
 
 ## **My profile stats here:**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratan01" alt="ratan01" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ratan01&theme=darkhub" alt="ratan01" />
+  </a>
+</p>
+
 
 <div align="center">
   <a href="https://github.com/Ratan01">
