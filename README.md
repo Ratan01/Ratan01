@@ -3,23 +3,17 @@
 
 
 ## **About Me:**
-<p align="left">
--👋 Hi, I am experienced Java Developer with expertise in designing, developing, and maintaining scalable web applications using Java, Spring Boot, Hibernate, JDBC, and SQL.
-</p>
-<p align="left">
-- Proficient in building dynamic and responsive user interfaces with React.js, Angular, HTML, CSS, and JavaScript.
-</p>
-<p align="left">
-- Strong understanding of RESTful APIs, Microservices architecture, and JWT authentication.
-</p>
-<p align="left">
-- Hands-on experience with Git for version control and collaboration. Passionate about writing clean, efficient, and maintainable code while ensuring high performance and security.
-</p>
-<p align="left">
-- Thank you for visiting my profile. I'm glad you're here!
-</p>
-- 📫 How to reach me **ratanrudra010@gmail.com**
+<p align="left">💻 I'm an experienced <strong>Java Developer</strong> with a deep passion for crafting scalable and maintainable web applications using technologies like <strong>Java, Spring Boot, Hibernate, JDBC</strong>, and <strong>SQL</strong>.</p>
 
+<p align="left">🎨 I also have a solid frontend background, building interactive and user-friendly interfaces with <strong>React.js, Angular, HTML, CSS</strong>, and <strong>JavaScript</strong>. My expertise spans both frontend and backend development, enabling me to contribute across the full stack.</p>
+
+<p align="left">🛠️ I specialize in designing and developing <strong>RESTful APIs</strong>, building applications using <strong>Microservices architecture</strong>, and securing them with <strong>JWT authentication</strong>.</p>
+
+<p align="left">🚀 I'm a strong advocate of clean code, performance optimization, and best security practices. I use <strong>Git</strong> for version control and love collaborating with others to build meaningful software.</p>
+
+<p align="left">🙏 Thanks for visiting my profile — feel free to explore my repositories or connect with me!</p>
+
+ 📫 How to reach me **ratanrudra010@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ratan-kumar-799619210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ratan-kumar-799619210" height="30" width="40" /></a>
@@ -27,38 +21,39 @@
 
 ## **Skills & Technologies:**
 <h3 align="left">Programming Languages:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img src="https://www.shutterstock.com/image-vector/c-language-logo-simple-colours-600nw-2113921046.jpg" alt="java" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=assets/java.png alt="java" width="40" height="40"/> </a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img src="assets/clang.jpeg" alt="java" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="assets/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
 
 <h3 align="left">Backend Languages:</h3>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://hibernate.org/orm/"> <img src="" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="assets/springboot.jpeg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://hibernate.org/orm/"> <img src="assets/hibernates.jpg" alt="hibernate" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="assets/sql.jpeg" alt="nodejs" width="40" height="40"/> </a>
 
 <h3 align="left">Frontend Languages:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://react.dev/learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/150px-React_Logo_SVG.svg.png" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/html.png" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/css.png" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="assets/Bootstrap_logo.jpg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://react.dev/learn"> <img src="assets/react.png" width="40" height="40"/> </a> 
 
 <h3 align="left">Databases:</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="assets/mysql.jpg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="assets/postgresSQL.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/mongodb.jpg" alt="mongodb" width="40" height="40"/> </a>
 
 <h3 align="left">Cloud and Devops:</h3> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="assets/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/git.jpeg" alt="git" width="40" height="40"/> </a> 
 
 <h3 align="left">Programming and Editing Tools:</h3>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/384px-Eclipse-Luna-Logo.svg.png" alt="eclipse" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
-<a href="https://in.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/180px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/180px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierpro" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="assets/postman.png" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="assets/eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/VS.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="assets/IntelliJ_IDEA.png" width="40" height="40"/> </a>
+<a href="https://in.mathworks.com" target="_blank" rel="noreferrer"> <img src="assets/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="assets/Adobe_Photoshop_CC.png" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="assets/Adobe_Premiere_Pro_CC.png" alt="premierpro" width="40" height="40"/> </a> 
 
 
 ## **My profile stats here:**
