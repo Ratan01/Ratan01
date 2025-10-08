@@ -80,7 +80,7 @@
 </div>
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Ratan01-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ratan01/count" />
 </p>
 
 
