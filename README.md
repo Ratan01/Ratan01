@@ -20,7 +20,7 @@
 </p>
 
 ## **Skills & Technologies:**
-<h3 align="center">Programming Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=assets/java.png alt="java" width="40" height="40"/> </a>
 <a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img src="assets/clang.jpeg" alt="java" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="assets/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
