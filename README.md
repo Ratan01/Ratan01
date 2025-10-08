@@ -20,11 +20,12 @@
 </p>
 
 ## **Skills & Technologies:**
-<h3 align="center">Programming Languages:</h3>
+<div align="center">
+<h3>Programming Languages:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=assets/java.png alt="java" width="40" height="40"/> </a>
 <a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img src="assets/clang.jpeg" alt="java" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="assets/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
-
+</div>
 <h3 align="left">Backend Languages:</h3>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="assets/springboot.jpeg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://hibernate.org/orm/"> <img src="assets/hibernates.jpg" alt="hibernate" width="40" height="40"/> </a>
