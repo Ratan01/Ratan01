@@ -21,16 +21,49 @@
 
 ## **Skills & Technologies:**
 <div align="center">
-<h3>Programming Languages:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=assets/java.png alt="java" width="40" height="40"/> </a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img src="assets/clang.jpeg" alt="java" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="assets/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
+
+  <table>
+    <tr>
+      <!-- Programming Languages Column -->
+      <td align="center" style="padding: 10px;">
+        <h3>Programming Languages:</h3>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <img src="assets/java.png" alt="Java" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank" rel="noreferrer">
+          <img src="assets/clang.jpeg" alt="C Language" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+          <img src="assets/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+        </a>
+      </td>
+
+      <!-- Backend Languages Column -->
+      <td align="center" style="padding: 10px;">
+        <h3>Backend Languages:</h3>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer">
+          <img src="assets/springboot.jpeg" alt="Spring Boot" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://hibernate.org/orm/" target="_blank" rel="noreferrer">
+          <img src="assets/hibernates.jpg" alt="Hibernate" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="assets/nodejs.png" alt="Node.js" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+          <img src="assets/sql.jpeg" alt="SQL" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
-<h3 align="left">Backend Languages:</h3>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="assets/springboot.jpeg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://hibernate.org/orm/"> <img src="assets/hibernates.jpg" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="assets/sql.jpeg" alt="nodejs" width="40" height="40"/> </a>
+
 
 <h3 align="left">Frontend Languages:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/html.png" alt="html5" width="40" height="40"/></a> 
