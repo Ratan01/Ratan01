@@ -163,7 +163,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratan01&theme=codeSTACKr&utcOffset=8"/>
   </a>
 </div>
-
+<div align="center">
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ratan01&repo=Ratan01&countColorcountColor&countColor=%237B1E7B"/>
+</div>
 
 
