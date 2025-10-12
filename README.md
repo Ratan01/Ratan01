@@ -21,7 +21,6 @@
 
 ## **Skills & Technologies:**
 <div align="center">
-
   <table>
     <tr>
       <!-- Programming Languages Column -->
@@ -59,33 +58,87 @@
         </a>
       </td>
     </tr>
+    <!-- Frontend vs Database -->
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <h3>Frontend Languages:</h3>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="assets/html.png" alt="HTML5" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="assets/css.png" alt="CSS3" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+          <img src="assets/Bootstrap_logo.jpg" alt="Bootstrap" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://react.dev/learn" target="_blank" rel="noreferrer">
+          <img src="assets/react.png" alt="React" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h3>Databases:</h3>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="assets/mysql.jpg" alt="MySQL" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img src="assets/postgresSQL.png" alt="PostgreSQL" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="assets/mongodb.jpg" alt="MongoDB" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <!-- Cloud vs Tools -->
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <h3>Cloud and DevOps:</h3>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+          <img src="assets/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="assets/git.jpeg" alt="Git" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h3>Programming and Editing Tools:</h3>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="assets/postman.png" alt="Postman" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
+          <img src="assets/eclipse.png" alt="Eclipse" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="assets/VS.png" alt="VS Code" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+          <img src="assets/IntelliJ_IDEA.png" alt="IntelliJ IDEA" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://in.mathworks.com" target="_blank" rel="noreferrer">
+          <img src="assets/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+          <img src="assets/Adobe_Photoshop_CC.png" alt="Photoshop" width="40" height="40"/>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
+          <img src="assets/Adobe_Premiere_Pro_CC.png" alt="Premiere Pro" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
-
-<h3 align="left">Frontend Languages:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/html.png" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/css.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="assets/Bootstrap_logo.jpg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://react.dev/learn"> <img src="assets/react.png" width="40" height="40"/> </a> 
-
-<h3 align="left">Databases:</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="assets/mysql.jpg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="assets/postgresSQL.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/mongodb.jpg" alt="mongodb" width="40" height="40"/> </a>
-
-<h3 align="left">Cloud and Devops:</h3> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="assets/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/git.jpeg" alt="git" width="40" height="40"/> </a> 
-
-<h3 align="left">Programming and Editing Tools:</h3>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="assets/postman.png" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="assets/eclipse.png" alt="eclipse" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/VS.png" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="assets/IntelliJ_IDEA.png" width="40" height="40"/> </a>
-<a href="https://in.mathworks.com" target="_blank" rel="noreferrer"> <img src="assets/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="assets/Adobe_Photoshop_CC.png" alt="photoshop" width="40" height="40"/> </a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="assets/Adobe_Premiere_Pro_CC.png" alt="premierpro" width="40" height="40"/> </a> 
 
 
 ## **My profile stats here:**
