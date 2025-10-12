@@ -163,9 +163,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratan01&theme=codeSTACKr&utcOffset=8"/>
   </a>
 </div>
-<p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Ratan01/count.svg" />
-</p>
 
 
