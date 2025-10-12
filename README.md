@@ -39,7 +39,6 @@
           <img src="assets/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
         </a>
       </td>
-
       <!-- Backend Languages Column -->
       <td align="center" style="padding: 10px;">
         <h3>Backend Languages:</h3>
@@ -61,7 +60,6 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 
